@@ -38,10 +38,12 @@ blade prepare jvm --process tomcat
 # 执行进程内 CPU 满载
 blade create jvm cpufullload --process tomcat
 {"code":200,"success":true,"result":"2a97b8c2fe9d7c01"}
+```
 
 # 验证结果
-![-w461](media/15756201454147/15758721082138.jpg)
+![](media/15756201454147/15758721082138.jpg)
 
+```
 # 停止实验
 blade destroy 2a97b8c2fe9d7c01
 
