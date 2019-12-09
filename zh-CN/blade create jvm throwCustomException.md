@@ -3,7 +3,7 @@
 指定类方法抛自定义异常，命令可以简写为 `blade c jvm tce`
 
 ## 参数
-以下是此场景特有参数，通用参数详见：[blade create jvm](blade_create_jvm)
+以下是此场景特有参数，通用参数详见：[blade create jvm](blade%20create%20jvm.md)
 ```
 --exception string           异常类，带全包名，必须继承 java.lang.Exception 或 java.lang.Exception 本身
 --exception-message string   指定异常类信息，不支持空格，默认值是 chaosblade-mock-exception

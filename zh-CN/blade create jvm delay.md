@@ -3,7 +3,7 @@
 指定类方法调用延迟
 
 ## 参数
-以下是此场景特有参数，通用参数详见：[blade create jvm](blade_create_jvm)
+以下是此场景特有参数，通用参数详见：[blade create jvm](blade%20create%20jvm.md)
 ```
 --time string             延迟时间，单位是毫秒，必填项
 --offset string           延迟时间上下偏移量，比如 --time 3000 --offset 1000，则延迟时间范围是 2000-4000 毫秒

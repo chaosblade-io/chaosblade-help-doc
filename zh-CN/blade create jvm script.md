@@ -3,7 +3,7 @@
 编写 java 或者 groovy 脚本实现复杂的故障场景，比如篡改参数、修改返回值、抛自定义异常等
 
 ## 参数
-以下是此场景特有参数，通用参数详见：[blade create jvm](blade_create_jvm)
+以下是此场景特有参数，通用参数详见：[blade create jvm](blade%20create%20jvm.md)
 ```
 --script-content string   脚本内容，是 Base64 编码后的内容，相关工具类 [Base64Util](https://github.com/chaosblade-io/chaosblade-exec-jvm/blob/master/chaosblade-exec-plugin/chaosblade-exec-plugin-jvm/src/main/java/com/alibaba/chaosblade/exec/plugin/jvm/Base64Util.java)。注意，不能和 script-file 同时使用。
 --script-file string      脚本文件，文件绝对路径

@@ -8,7 +8,6 @@ jvm 本身相关场景，以及可以指定类，方法注入延迟、返回值�
 * [blade create jvm return](blade%20create%20jvm%20return.md) 指定返回值
 * [blade create jvm script](blade%20create%20jvm%20script.md) 编写 groovy 和 java 实现场景
 * [blade create jvm throwCustomException](blade%20create%20jvm%20throwCustomException.md) 抛自定义异常场景
-* [blade create jvm throwDeclaredException](blade%20create%20jvm%20throwDeclaredException.md) 抛方法声明的异常场景
 
 ## 参数
 此处列举 jvm 支持的通用参数：
