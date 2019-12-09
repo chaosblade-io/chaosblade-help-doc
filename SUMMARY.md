@@ -29,7 +29,7 @@
 * [blade create k8s container-network](zh-CN/blade%20create%20k8s%20container-network.md)
 * [blade create k8s container-process](zh-CN/blade%20create%20k8s%20container-process.md)
 * [blade create k8s container-container](zh-CN/blade%20create%20k8s%20container-container.md)
-* [blade create jvm](zh-CN/blade%20create%20jvm)
+* [blade create jvm](zh-CN/blade%20create%20jvm.md)
 * [blade create jvm delay](zh-CN/blade%20create%20jvm%20delay.md)
 * [blade create jvm return](zh-CN/blade%20create%20jvm%20return.md)
 * [blade create jvm script](zh-CN/blade%20create%20jvm%20script.md)
