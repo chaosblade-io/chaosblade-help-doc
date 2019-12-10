@@ -5,6 +5,8 @@
 ## 参数
 以下是此场景特有参数，通用参数详见：[blade create jvm](blade%20create%20jvm.md)
 ```
+--effect-count string     影响的请求条数
+--effect-percent string   影响的请求百分比
 --value string     返回指定值，仅支持基本类型和字符串类型，如果想返回 null，可以设置为 --value null 。必选项
 ```
 

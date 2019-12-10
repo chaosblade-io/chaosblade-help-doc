@@ -5,6 +5,8 @@
 ## 参数
 以下是此场景特有参数，通用参数详见：[blade create jvm](blade%20create%20jvm.md)
 ```
+--effect-count string     影响的请求条数
+--effect-percent string   影响的请求百分比
 --script-content string   脚本内容，是 Base64 编码后的内容，相关工具类 [Base64Util](https://github.com/chaosblade-io/chaosblade-exec-jvm/blob/master/chaosblade-exec-plugin/chaosblade-exec-plugin-jvm/src/main/java/com/alibaba/chaosblade/exec/plugin/jvm/Base64Util.java)。注意，不能和 script-file 同时使用。
 --script-file string      脚本文件，文件绝对路径
 --script-name string      脚本名称，日志记录用，可不填写。
