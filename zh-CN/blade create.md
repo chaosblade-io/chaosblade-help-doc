@@ -50,3 +50,5 @@ blade destroy 6fa04946baf42920
 %Cpu0  :  0.3 us,  0.3 sy,  0.0 ni, 99.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
 ```
 
+## 支持的场景
+请点击左侧菜单查看
