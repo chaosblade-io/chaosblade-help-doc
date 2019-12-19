@@ -62,7 +62,7 @@ spec:
 更多的实验场景配置事例可查看: https://github.com/chaosblade-io/chaosblade-operator/tree/v0.0.1/examples
 
 **blade 命令执行方式**
-下载 chaosblade 工具包，下载地址：https://github.com/chaosblade-io/chaosblade/releases/tag/v0.4.0-alpha ，解压即可使用。还是上述例子，使用 blade 命令执行如下：
+下载 chaosblade 工具包，下载地址：https://github.com/chaosblade-io/chaosblade/releases ，解压即可使用。还是上述例子，使用 blade 命令执行如下：
 ```shell
 blade create k8s node-cpu fullload --names cn-hangzhou.192.168.0.205 --cpu-percent 80 --kubeconfig ~/.kube/config 
 ```
