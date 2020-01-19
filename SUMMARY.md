@@ -42,3 +42,5 @@
 	* [blade create servlet delay](zh-CN/blade%20create%20servlet%20delay.md)
 	* [blade create servlet throwCustomException](zh-CN/blade%20create%20servlet%20throwCustomException.md)
 * [blade server](zh-CN/blade%20server.md)
+* [blade status](zh-CN/blade%20status.md)
+* [blade version](zh-CN/blade%20version.md)
