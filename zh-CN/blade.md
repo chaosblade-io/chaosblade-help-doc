@@ -32,7 +32,7 @@ blade create cpu fullload -d
 * blade_destroy.md  - 销毁一个混沌实验
 * blade_prepare.md  - 准备混沌实验环境，部分实验执行前必须执行
 * blade_revoke.md   - 撤销混沌实验环境，与 prepare 操作对应
-* blade_status.md   - 查询混沌实验和混沌实验环境状态
+* [blade status](blade%20status.md)   - 查询混沌实验和混沌实验环境状态
 * blade_query.md    - 查询部分实验所需的系统参数
-* blade_version.md  - 打印 blade 工具版本信息
+* [blade version](blade%20version.md)  - 打印 blade 工具版本信息
 * [blade server](blade%20server.md)     - server 模式
