@@ -14,7 +14,7 @@ jvm 本身相关场景，以及可以指定类，方法注入延迟、返回值�
 ```
 --pid string         指定 java 进程号
 --process string     指定 java 进程名，如果同时填写
---timeout string     set timeout for experiment in seconds
+--timeout string     设定运行时长，单位是秒，通用参数
 ```
 
 JVM 方法级别的故障场景通用参数：
@@ -38,10 +38,13 @@ blade prepare jvm --process tomcat
 # 执行进程内 CPU 满载
 blade create jvm cpufullload --process tomcat
 {"code":200,"success":true,"result":"2a97b8c2fe9d7c01"}
+```
 
-# 验证结果
+验证结果：
+
 ![-w461](media/15756201454147/15758721082138.jpg)
 
+```
 # 停止实验
 blade destroy 2a97b8c2fe9d7c01
 
