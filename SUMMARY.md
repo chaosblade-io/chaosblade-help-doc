@@ -13,6 +13,7 @@
 * [blade create network corrupt](zh-CN/v0.6.0/blade%20create%20network%20corrupt.md)
 * [blade create network reorder](zh-CN/v0.6.0/blade%20create%20network%20reorder.md)
 * [blade create network duplicate](zh-CN/v0.6.0/blade%20create%20network%20duplicate.md)
+* [blade create network occupy](zh-CN/v0.6.0/blade%20create%20network%20occupy.md)
 * [blade create process kill](zh-CN/v0.6.0/blade%20create%20process%20kill.md)
 * [blade create process stop](zh-CN/v0.6.0/blade%20create%20process%20stop.md)
 * [blade create script delay](zh-CN/v0.6.0/blade%20create%20script%20delay.md)
