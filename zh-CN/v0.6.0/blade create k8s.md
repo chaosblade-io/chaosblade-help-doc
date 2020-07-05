@@ -9,6 +9,7 @@
 * [blade create k8s pod-pod](blade create k8s pod-pod.md) Pod 资源场景，比如杀 Pod
 * [blade create k8s pod-network](blade create k8s pod-network.md) Pod 网络资源场景，比如网络延迟
 * [blade create k8s pod-IO](blade%20create%20k8s%20pod-IO.md) Pod IO 文件系统异常场景
+* [blade create k8s pod-fail](blade create k8s pod-fail.md) Pod 不可用异常场景
 * [blade create k8s container-container](blade create k8s container-container.md) Container 资源场景，比如杀容器
 * [blade create k8s container-cpu](blade create k8s container-cpu.md) 容器内 CPU 负载场景
 * [blade create k8s container-network](blade create k8s container-network.md) 容器内网络场景
