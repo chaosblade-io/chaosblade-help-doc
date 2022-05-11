@@ -24,7 +24,7 @@
 ## 案例
 ```text
 # 访问指定的 ip 请求包损坏，百分比 80%
-blade create network corrupt --percent 80 --destination-ip 180.101.49.12 --interface eth0
+blade create network duplicate --percent 80 --destination-ip 180.101.49.12 --interface eth0
 
 ping 180.101.49.12
 
