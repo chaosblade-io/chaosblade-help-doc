@@ -20,7 +20,7 @@ kubernetes 节点进程相关场景，同基础资源的进程场景
 ```
 
 ## 案例
-杀指定 cn-hangzhou.192.168.0.205 节点上 kubelet 进程
+杀指定 cn-hangzhou.192.168.0.205 节点上 redis-server 进程
 
 **yaml配置方式如下**
 ```yaml
